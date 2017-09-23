@@ -14,9 +14,8 @@
 
 ### Manually install
 
-1. Download (on the server) the tar.gz according to the version of pycharm you use
-2. Extract in the home folder of the remote user 
-
+1. Download the tar.gz according to the version of pycharm you use
+2. Extract in the home folder of the remote user
 ```
 /home/user/.pycharm_helpers
           ├── build.txt
